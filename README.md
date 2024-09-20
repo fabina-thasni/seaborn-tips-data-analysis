@@ -15,5 +15,6 @@ C:\Users\Your Name>pip install seaborn
 
 C:\Users\Your Name>!pip install seaborn
 ## Import Seaborn
-Import the Seaborn module in your code using the following statement:
+* Import the Seaborn module in your code using the following statement:
+
 import seaborn as sns
