@@ -48,3 +48,25 @@ The Tips dataset contains information about tips received by waitstaff in a rest
 * time: Time of day (Lunch/Dinner) (categorical)
 
 * size: Size of the party (numerical)
+
+### Information of the dataset
+The tips dataset has 7 columns (features) and 244 rows (observations,samples).
+
+* Numerical columns are:
+
+1.total_bill (float) - the amount of the total bill
+
+2.tip (float) - the amount of the tip paid on the bill
+
+3.size (int) - the number of total people served
+
+* Categorical columns are:
+1.sex (Male/Female) - the gender of the person who paid the bill
+
+2.smoker (Yes/No) - whether or not the person who paid the bill is a smoker
+
+3.day (Thur/Fri/Sat/Sun) - the day when the person paid the bill
+
+4.time (Lunch/Dinner) - the time of the day i.e. lunch or dinner
+
+* There is no missing values
