@@ -1,6 +1,8 @@
 # seaborn-tips-data-analysis
 ## INTRODUCTION
 
+![image](https://github.com/user-attachments/assets/e59d6856-34f6-4141-b7f8-f41cacaa76a2)
+
 Seaborn is a powerful Python visualization library built on top of Matplotlib, providing a high-level interface for drawing attractive and informative statistical graphics.
 
 Seaborn simplifies the process of creating complex visualizations and is particularly well-suited for visualizing data with relationships, distributions, and categories.
@@ -33,6 +35,9 @@ import seaborn as sns
 
 ### Tips Dataset
 The Tips dataset contains information about tips received by waitstaff in a restaurant.
+
+![image](https://github.com/user-attachments/assets/43e1c448-f76c-4003-8ba1-8d62bc1b0e96)
+
 
 ### Features and Characteristics
 * total_bill: Total bill amount (numerical)
